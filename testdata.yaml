@@ -1,0 +1,15 @@
+address: https://test-stand.gb.ru
+url1: 'https://test-stand.gb.ru/api/posts'
+url2: 'https://test-stand.gb.ru/gateway/login'
+#driver_path: ./chromedriver.exe
+browser: chrome   #
+sleep_time: 3   #
+login: demid91
+passwd: 162e3639d2
+title1: beautiful
+name: dem
+email: demid@mail.ru
+content1: hello
+title: hello
+description: beautiful
+content: world
